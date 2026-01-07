@@ -1,0 +1,24 @@
+
+# Core
+python-dotenv==1.0.0
+
+# Database
+sqlite-utils==3.35
+
+# Data generation
+faker==24.8.0
+numpy==1.26.4
+pandas==2.2.2
+
+# Date & time handling
+python-dateutil==2.9.0.post0
+
+# HTTP & scraping (lightweight, optional but justified)
+requests==2.31.0
+beautifulsoup4==4.12.3
+
+# Logging
+loguru==0.7.2
+
+# UUID handling (standard, but explicit for clarity)
+uuid==1.30

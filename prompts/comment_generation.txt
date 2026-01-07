@@ -1,0 +1,18 @@
+
+Write a brief, professional comment for a task.
+
+Task: {task_name}
+Comment Type: {comment_type}
+
+Comment types:
+- update: Status update on progress
+- question: Clarifying question about requirements
+- blocker: Mention of a blocker or issue
+- completion: Task completion note
+
+Requirements:
+- 1-2 sentences
+- Professional tone
+- Realistic and specific
+
+Comment:

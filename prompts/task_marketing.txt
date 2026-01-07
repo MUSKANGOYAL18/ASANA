@@ -1,0 +1,16 @@
+Generate a realistic marketing task name.
+
+Campaign: {campaign}
+
+Follow this pattern: [Campaign/Channel] - [Deliverable]
+
+Examples:
+- Q4 Launch - Create landing page copy
+- Email Campaign - Design newsletter template
+- Social Media - Schedule Instagram posts for week
+- Content - Write blog post on new features
+- SEO - Optimize product pages for keywords
+- Paid Ads - Create Google Ads campaign
+- Brand - Update brand guidelines document
+
+Generate ONE task name (no quotes, no numbering):

@@ -1,0 +1,14 @@
+Generate a realistic product management task name.
+
+Feature: {feature}
+
+Examples:
+- User Research - Conduct interviews with 10 customers
+- PRD - Write product requirements for mobile app
+- Roadmap - Update Q1 2024 feature priorities
+- Analytics - Analyze user engagement metrics
+- Design - Review wireframes for checkout flow
+- Competitive Analysis - Research competitor pricing
+- User Testing - Run usability tests on prototype
+
+Generate ONE task name (no quotes, no numbering):

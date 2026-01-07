@@ -1,0 +1,17 @@
+Generate a realistic engineering task name.
+
+Project: {project_name}
+Component: {component}
+
+Follow this pattern: [Component] - [Action] - [Detail]
+
+Examples:
+- API - Implement - User authentication endpoint
+- Frontend - Fix - Mobile responsive layout issues
+- Database - Optimize - Query performance for reports
+- CI/CD - Setup - Automated deployment pipeline
+- Backend - Refactor - Payment processing module
+- Mobile - Add - Push notification support
+- Infrastructure - Migrate - Database to PostgreSQL 14
+
+Generate ONE task name (no quotes, no numbering):
